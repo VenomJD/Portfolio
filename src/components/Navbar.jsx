@@ -84,7 +84,7 @@ const Navbar = () => {
                             onClick={(e) => scrollToSection(e, "#Home")}
                             className="text-xl font-bold bg-gradient-to-r from-[#a855f7] to-[#6366f1] bg-clip-text text-transparent"
                         >
-                            Ekizr
+                            JeanCdev
                         </a>
                     </div>
         
@@ -111,7 +111,7 @@ const Navbar = () => {
                                         className={`absolute bottom-0 left-0 w-full h-0.5 bg-gradient-to-r from-[#6366f1] to-[#a855f7] transform origin-left transition-transform duration-300 ${
                                             activeSection === item.href.substring(1)
                                                 ? "scale-x-100"
-                                                : "scale-x-0 group-hover:scale-x-100"
+                                                : "scale-x-0 group-hover:scale-x-100"         
                                         }`}
                                     />
                                 </a>
