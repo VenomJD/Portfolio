@@ -78,7 +78,7 @@ const TYPING_SPEED = 100;
 const ERASING_SPEED = 50;
 const PAUSE_DURATION = 2000;
 const WORDS = ["Software Engineering Student", "Tech Enthusiast", "autodidact", "Data Analyst", "Data Scientist"];
-const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind", "Python", "SQL", "MongoDB", "Git", "Docker", "AWS","Next.js","Material UI", "Tailwind CSS"];
+const TECH_STACK = ["React", "Javascript", "Node.js", "Supabase", "Python", "SQL", "MongoDB", "Git", "Docker", "AWS","Next.js","Material UI", "Tailwind CSS","Linux","JWT"];
 const SOCIAL_LINKS = [
   { icon: Github, link: "https://github.com/VenomJD" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/jean-melgar-6bb497168/" },
